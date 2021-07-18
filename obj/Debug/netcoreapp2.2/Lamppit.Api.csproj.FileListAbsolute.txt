@@ -1,0 +1,28 @@
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.deps.json
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.runtimeconfig.json
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.runtimeconfig.dev.json
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.dll
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.pdb
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.RazorAssemblyInfo.cache
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.RazorAssemblyInfo.cs
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.AssemblyInfoInputs.cache
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.AssemblyInfo.cs
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.RazorTargetAssemblyInfo.cache
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.dll
+C:\Users\lucas\Documents\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.pdb
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.deps.json
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.runtimeconfig.json
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.runtimeconfig.dev.json
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.dll
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\bin\Debug\netcoreapp2.2\Lamppit.Api.pdb
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.csprojAssemblyReference.cache
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.csproj.CoreCompileInputs.cache
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.RazorAssemblyInfo.cache
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.RazorAssemblyInfo.cs
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.AssemblyInfoInputs.cache
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.AssemblyInfo.cs
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.RazorTargetAssemblyInfo.cache
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.dll
+C:\Users\Mais Consulta\Desktop\Projeto Lampp-IT\Lamppit.Api\obj\Debug\netcoreapp2.2\Lamppit.Api.pdb
